@@ -1,0 +1,6 @@
+{
+  "name": "NFT Drive",
+  "description": "Симулятор колекціонування авто: купуйте фото машин на конвеєрі, перетягуйте їх в інвентар, об'єднуйте моделі та заробляйте гроші.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
